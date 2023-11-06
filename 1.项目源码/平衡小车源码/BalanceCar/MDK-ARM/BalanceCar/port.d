@@ -1,0 +1,13 @@
+balancecar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+balancecar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+balancecar\port.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+balancecar\port.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+balancecar\port.o: ../Inc/FreeRTOSConfig.h
+balancecar\port.o: ../Inc/main.h
+balancecar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+balancecar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+balancecar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+balancecar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+balancecar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+balancecar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+balancecar\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
